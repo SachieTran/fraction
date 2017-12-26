@@ -1,6 +1,6 @@
 # testfrac.py
 #
-# Created by: Tran Tran
+# Created by: Sachie Tran
 # Date: 3/1/2016
 # 
 # This program tests the Fraction ADT in fraction.py
