@@ -1,9 +1,9 @@
 # fraction.py
 #
-# Created by: Tran Tran
+# Created by: Sachie Tran
 # Date: 3/1/2016
 #
-# This program contains the Fraction ADT that represents a rational number that
+# This file contains the Fraction ADT that represents a rational number that
 # consists of two integer values: one for the denominator and one for the
 # numerator.
 
